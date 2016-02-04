@@ -1,0 +1,24 @@
+{
+  "name": "static",
+  "homepage": "https://github.com/zding5/FashionMatch",
+  "authors": [
+    "Ding <zding5@illinois.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
